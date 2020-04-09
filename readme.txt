@@ -20,3 +20,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 
 push origin master test!
+
+push origin master test 001!
