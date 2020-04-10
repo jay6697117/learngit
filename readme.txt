@@ -22,3 +22,5 @@ Git tracks changes of files.
 push origin master test!
 
 push origin master test 001!
+
+Creating a new branch dev is quick...
