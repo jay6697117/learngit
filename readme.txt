@@ -34,5 +34,3 @@ branch dev for test
 Creating a new branch is quick AND simple.
 
 add merge test......
-
-dev bug branch test
