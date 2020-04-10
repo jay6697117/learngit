@@ -30,3 +30,5 @@ branch dev test001
 branch dev test002
 
 branch dev for test
+
+Creating a new branch is quick AND simple.
