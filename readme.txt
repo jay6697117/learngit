@@ -26,3 +26,5 @@ push origin master test 001!
 Creating a new branch dev is quick...
 
 branch dev test001
+
+branch dev test002
