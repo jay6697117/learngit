@@ -17,3 +17,5 @@ rebase test
 rebase test 001
 
 rebase test 002
+
+rebase 000
