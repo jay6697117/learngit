@@ -20,3 +20,5 @@ rebase test 002
 
 rebase 000
 rebase 001
+
+git push github gitee master
