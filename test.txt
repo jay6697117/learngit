@@ -15,3 +15,5 @@ feature test
 rebase test
 
 rebase test 001
+
+rebase test 002
